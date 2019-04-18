@@ -1,0 +1,41 @@
+{
+  "_from": "@sphinx-software/division-operator@^1.2.0",
+  "_id": "@sphinx-software/division-operator@1.2.0",
+  "_inBundle": false,
+  "_integrity": "sha512-tSTfLl4GoyxtSmN0VoovDpQcStjBvnhGwIki/BaLj8QX3ZlnmGfJvnpuJybHCxUi2kuGnP1vxDUuty7D2uW7GQ==",
+  "_location": "/@sphinx-software/division-operator",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@sphinx-software/division-operator@^1.2.0",
+    "name": "@sphinx-software/division-operator",
+    "escapedName": "@sphinx-software%2fdivision-operator",
+    "scope": "@sphinx-software",
+    "rawSpec": "^1.2.0",
+    "saveSpec": null,
+    "fetchSpec": "^1.2.0"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@sphinx-software/division-operator/-/division-operator-1.2.0.tgz",
+  "_shasum": "f8cfc6b40031838c6fc2235cfc24de219cc88788",
+  "_spec": "@sphinx-software/division-operator@^1.2.0",
+  "_where": "/home/duy/calculator/calculator-midd",
+  "author": "",
+  "bundleDependencies": false,
+  "dependencies": {
+    "rational-number": "^0.2.1"
+  },
+  "deprecated": false,
+  "description": "",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "@sphinx-software/division-operator",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.2.0"
+}
